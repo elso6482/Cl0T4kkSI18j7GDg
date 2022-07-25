@@ -3,8 +3,11 @@
 This project aims to predict the subscription on term deposit and finds out what key factors lead to the subscription. At the end of the projest. We can determine the segment of customer the marketing team should focus on.
 
 The term deposit data has 13 attributes: 
+
 age, balance, last contact day of the month, duration, number of contacts performed during campagin (numeric)
+
 job, marital, education, contact communication type, last contact month of year (categorical)
+
 credit default history, housing loan, personal loan (binary)
 
 
