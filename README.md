@@ -45,6 +45,8 @@ For the continuous features, lower balance push the client more likely to subscr
 
 ![image](https://user-images.githubusercontent.com/62399559/181434795-0b75f759-b810-4566-b10d-ea60a8dab0ce.png)
 
+# Conclusion
+
 In conclusion, contact communication type, average yearly balance and education level determine the willingness of term deposit subscription if we want to get a high precision on correctly finding the right customers.
 For the model with higher recall rate duration plays an important role on finding all the potential customer, which is contradictive to the previos model. 
 Therefore, if we would like to find out more customers with willingness of subscription, we focus on the customer with longer last contract duration.  
